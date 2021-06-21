@@ -93,8 +93,8 @@ header .scroll input{
 header .scroll .seta{
     position: relative;
     transform: rotate(270deg);
-    top: 18px;
-    left: 18px;
+    top: 15px;
+    left: 15px;
     z-index: -1;
     transition: .3s ease;
 }
