@@ -81,8 +81,8 @@ header .scroll{
 
 header .scroll input{
     position: absolute;
-    width: 30px;
-    height: 30px;
+    width: 60px;
+    height: 60px;
     border-radius: 30px;
     cursor: pointer;
     border: none;
